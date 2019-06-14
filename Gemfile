@@ -23,7 +23,9 @@ gem "title"
 gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin, :jruby]
 gem "uglifier"
 gem "bootsnap", require: false
-
+gem "nokogiri"
+gem "httparty"
+gem 'rails_admin', '~> 1.3'
 
 group :development do
   gem "listen"
