@@ -25,7 +25,7 @@ gem "uglifier"
 gem "bootsnap", require: false
 gem "nokogiri"
 gem "httparty"
-gem 'rails_admin', '~> 1.3'
+gem 'rails_admin', '~> 1.4'
 
 group :development do
   gem "listen"
